@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/DrtSinX98/DrtSinX98/blob/main/anime1.gif" width="180px" height="180px" align="left">
 <a href="https://github.com/Los-FE/android_frameworks_base">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Los-FE&repo=android_frameworks_base&&show_icons=true&&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Los-FE&repo=android_frameworks_base&&show_owner=true&&show_icons=true&&theme=tokyonight" />
 </a>
 <!--
 <p><img width="400px" height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrtSinX98&layout=compact&&theme=tokyonight" alt="DrtSinX98" /></p>
