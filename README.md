@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <!--
 <p><img width="400px" height="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrtSinX98&layout=compact&&theme=tokyonight" alt="DrtSinX98" /></p>
 -->
-<img width="400px" height="300px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DrtSinX98&layout=compact&langs_count=8&theme=nightowl"/>
+<img width="400px" height="300px" align="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DrtSinX98&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 
 
