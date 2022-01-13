@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/DrtSinX98/DrtSinX98/blob/main/anime.gif" width="200px" height="200px" align="right" style="padding-left: 0px; padding-right: 100px;">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DrtSinX98&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DrtSinX98&count_private=true&theme=tokyonight)](https://git.io/streak-stats)
 
 <img src="https://github.com/DrtSinX98/DrtSinX98/blob/main/anime1.gif" width="180px" height="180px" align="left">
 <a href="https://github.com/Los-FE/android_frameworks_base">
