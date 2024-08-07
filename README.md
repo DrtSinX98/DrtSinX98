@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Konnichiwa minasan, Have a look into my profile</h1>
-<h3 align="center">Ore no namae wa Pritish desu, Ore wa full time student, part time educator and tech enthusiast</h1>
+<h1 align="center">Hey there!, have a look into my profile</h1>
+<h3 align="center">I'm Pritish Joshi, a full time researcher, part time educator and tech enthusiast</h1>
 <img src="https://github.com/DrtSinX98/DrtSinX98/blob/main/anime-hello.gif" width="180px" height="180px" align="right">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=DrtSinX98&&show_icons=true&&theme=tokyonight" />
 
