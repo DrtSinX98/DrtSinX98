@@ -48,9 +48,6 @@ Here are some ideas to get you started:
   <img align="left" alt="DrtSinX98's" Telegram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
 </a>
 </a> 
-  <a href="https://forum.xda-developers.com/m/pritish1998.7443262/">
-  <img align="left" alt="My XDA" width="30px" src="https://www.xda-developers.com/favicon.ico" />
-</a>
 
 
 
