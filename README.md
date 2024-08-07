@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 
 <p align = "center">
- <img  width="3000px" src="https://activity-graph.herokuapp.com/graph?username=DrtSinX98&theme=redical">
+ <img  width="3000px" src="?https://github-readme-activity-graph.vercel.app/graph?username=DrtSinX98&theme=react-dark">
 </p>  
 
 
