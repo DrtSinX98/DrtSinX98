@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="330" viewBox="0 0 1120 330">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox">
+    <stop stop-color="#111322"/><stop offset="1" stop-color="#191d36"/>
+  </linearGradient>
+  <radialGradient id="light">
+    <stop stop-color="#716ddd" stop-opacity=".19"/><stop offset="1" stop-color="#716ddd" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#9e9acb" opacity=".13"/>
+  </pattern>
+  <clipPath id="clip"><rect x="1" y="1" width="1118" height="328" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1120" height="330" fill="url(#bg)"/>
+  <ellipse cx="891" cy="145" rx="332" ry="249" fill="url(#light)"/>
+  <path d="M663 0H1120V330H663Z" fill="url(#grid)"/>
+  <path d="M0 54H1120M0 286H1120M663 54V286" fill="none" stroke="#343852"/>
+  <path d="M735 286V264H783L817 230M1006 108L1055 76H1120M967 274H1032L1081 227H1120M663 117H717L753 151" fill="none" stroke="#8886c1" opacity=".42"/>
+  <g fill="none" stroke-width="1.5">
+    <path d="M877 78L995 131V218L877 269L760 218V131Z" fill="#181b33" stroke="#7675b2"/>
+    <path d="M877 78L995 131L877 183L760 131Z" fill="#38365f" stroke="#c8b5ff"/>
+    <path d="M760 131L877 183V269L760 218Z" fill="#29284c" stroke="#aaa1ef"/>
+    <path d="M877 183L995 131V218L877 269Z" fill="#213747" stroke="#a4f2d4"/>
+    <path d="M818.5 104.5L936 157M936 104.5L818.5 157M818.5 157V243.5M760 174.5L877 226.5M877 226.5L995 174.5M936 157V243.5" stroke="#9594c3" opacity=".58"/>
+  </g>
+  <g fill="#a4f2d4"><circle cx="877" cy="78" r="4"/><circle cx="995" cy="131" r="4"/><circle cx="877" cy="183" r="5"/><circle cx="995" cy="218" r="3"/><circle cx="936" cy="200" r="3"/><circle cx="1081" cy="227" r="3"/></g>
+  <g fill="#c8b5ff"><circle cx="760" cy="131" r="4"/><circle cx="760" cy="218" r="3"/><circle cx="818.5" cy="157" r="3"/><circle cx="877" cy="269" r="4"/><circle cx="1055" cy="76" r="3"/></g>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">
+    <circle cx="55" cy="27" r="4" fill="#a4f2d4"/>
+    <text x="72" y="33" fill="#abb1cf">@DrtSinX98</text>
+    <text x="1067" y="33" text-anchor="end" fill="#abb1cf">pritish.eu</text>
+    <text x="52" y="110" fill="#a4f2d4" letter-spacing="2">RESEARCHER / EDUCATOR / DEVELOPER</text>
+    <text x="52" y="313" fill="#abb1cf" letter-spacing="1.5">UPPSALA UNIVERSITY · SWEDEN</text>
+  </g>
+  <text x="48" y="196" fill="#f7f6ff" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="83" font-weight="750" letter-spacing="-4">Pritish Joshi</text>
+  <text x="53" y="244" fill="#c9cbe0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="25">Machine learning, materials &amp; operating systems</text>
+</g>
+<rect x="1" y="1" width="1118" height="328" rx="24" fill="none" stroke="#494b71" stroke-width="2"/>
+</svg>

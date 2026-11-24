@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="130" viewBox="0 0 528 130">
+<defs>
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#e7bc92" opacity=".14"/>
+  </pattern>
+  <clipPath id="clip"><rect x="1" y="1" width="526" height="128" rx="13"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="528" height="130" fill="#131629"/>
+  <path d="M216 0H528V130H153Z" fill="#3a292e"/>
+  <path d="M216 0H528V130H153Z" fill="url(#grid)"/>
+  <path d="M216 0L153 130M16 105H145" fill="none" stroke="#e7bc92" opacity=".38"/>
+  <circle cx="28" cy="28" r="4" fill="#e7bc92"/>
+  <text x="24" y="74" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1.1" fill="#e7bc92">WEB / TRAVEL</text>
+  <g fill="none" stroke="#e7bc92" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M214 88H267L296 43H357L382 87H439L473 52H513" stroke-dasharray="5 7" opacity=".48"/>
+<path d="M235 83H271L302 46H350L378 82H440L470 52H498"/>
+<circle cx="235" cy="83" r="7" fill="#3a292e"/><circle cx="302" cy="46" r="7" fill="#3a292e"/>
+<circle cx="378" cy="82" r="7" fill="#3a292e"/><circle cx="470" cy="52" r="7" fill="#3a292e"/>
+<path d="M302 28V19M378 101V110M470 34V25M235 102V110" opacity=".7"/>
+  </g>
+</g>
+<rect x="1" y="1" width="526" height="128" rx="13" fill="none" stroke="#e7bc92" opacity=".45"/>
+</svg>

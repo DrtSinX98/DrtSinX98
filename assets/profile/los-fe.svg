@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="130" viewBox="0 0 528 130">
+<defs>
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#c8b5ff" opacity=".14"/>
+  </pattern>
+  <clipPath id="clip"><rect x="1" y="1" width="526" height="128" rx="13"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="528" height="130" fill="#131629"/>
+  <path d="M216 0H528V130H153Z" fill="#302748"/>
+  <path d="M216 0H528V130H153Z" fill="url(#grid)"/>
+  <path d="M216 0L153 130M16 105H145" fill="none" stroke="#c8b5ff" opacity=".38"/>
+  <circle cx="28" cy="28" r="4" fill="#c8b5ff"/>
+  <text x="24" y="74" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1.1" fill="#c8b5ff">ANDROID / ROM</text>
+  <g fill="none" stroke="#c8b5ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M224 69H290M429 69H504M260 69V37H291M461 69V102H432" opacity=".55"/>
+<path d="M361 21L435 52L361 83L287 52Z" fill="#302748"/>
+<path d="M291 69L361 98L431 69M291 84L361 113L431 84"/>
+<path d="M361 36L400 52L361 68L322 52Z" opacity=".56"/>
+<circle cx="224" cy="69" r="3" fill="#c8b5ff"/><circle cx="504" cy="69" r="3" fill="#c8b5ff"/>
+  </g>
+</g>
+<rect x="1" y="1" width="526" height="128" rx="13" fill="none" stroke="#c8b5ff" opacity=".45"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="528" height="130" viewBox="0 0 528 130">
+<defs>
+  <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+    <path d="M20 0H0V20" fill="none" stroke="#a4f2d4" opacity=".14"/>
+  </pattern>
+  <clipPath id="clip"><rect x="1" y="1" width="526" height="128" rx="13"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="528" height="130" fill="#131629"/>
+  <path d="M216 0H528V130H153Z" fill="#172f39"/>
+  <path d="M216 0H528V130H153Z" fill="url(#grid)"/>
+  <path d="M216 0L153 130M16 105H145" fill="none" stroke="#a4f2d4" opacity=".38"/>
+  <circle cx="28" cy="28" r="4" fill="#a4f2d4"/>
+  <text x="24" y="74" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17" letter-spacing="1.1" fill="#a4f2d4">XNU / MOBILE</text>
+  <g fill="none" stroke="#a4f2d4" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M305 43H279L256 66H223M305 81H278L255 104H230M420 43H452L471 24H510M420 81H456L475 101H512" opacity=".5"/>
+<rect x="307" y="13" width="110" height="103" rx="13" fill="#172f39"/>
+<rect x="317" y="23" width="90" height="82" rx="7" opacity=".54"/>
+<path d="M340 65H351L359 52L369 79L377 65H386M352 110H373"/>
+<circle cx="223" cy="66" r="3" fill="#a4f2d4"/><circle cx="510" cy="24" r="3" fill="#a4f2d4"/>
+  </g>
+</g>
+<rect x="1" y="1" width="526" height="128" rx="13" fill="none" stroke="#a4f2d4" opacity=".45"/>
+</svg>
