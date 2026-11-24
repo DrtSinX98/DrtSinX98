@@ -47,12 +47,10 @@ I’m a PhD candidate in machine learning at **Uppsala University**, with a back
 
 ## Tech stack
 
-| Area | Tools |
-| :--- | :--- |
-| **Research & ML** | Python · PyTorch · TensorFlow |
-| **Mobile & systems** | C · Linux · Android · Git |
-| **Web & data** | JavaScript · React · Next.js · HTML · CSS · Bootstrap · MySQL |
-| **Cloud** | AWS · Azure · Google Cloud |
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile/tech-stack-narrow.svg" />
+  <img width="100%" src="./assets/profile/tech-stack.svg" alt="Research &amp; ML. Python · PyTorch · TensorFlow. Mobile &amp; systems. C · Linux · Android · Git. Web &amp; data. JavaScript · React · Next.js. HTML · CSS · Bootstrap · MySQL. Cloud. AWS · Azure · Google Cloud." />
+</picture>
 
 ## GitHub activity
 
