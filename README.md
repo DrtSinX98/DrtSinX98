@@ -32,9 +32,9 @@ I’m a PhD candidate in machine learning at **Uppsala University**, with a back
   <tr>
     <td width="50%" valign="top">
       <img width="100%" src="./assets/profile/los-fe.svg" alt="" />
-      <h3><a href="https://github.com/Los-FE/android_frameworks_base">Los-FE Android Framework</a></h3>
-      <p>My contributions to the Android framework for the Los-FE custom ROM.</p>
-      <a href="https://github.com/Los-FE/android_frameworks_base">Framework source</a>
+      <h3><a href="https://github.com/Los-FE/">Cyanide Project</a></h3>
+      <p>A beautifully designed feature rich Android custom ROM project with the stability of Lineage OS.</p>
+      <a href="https://github.com/Los-FE/">Source</a>
     </td>
     <td width="50%" valign="top">
       <img width="100%" src="./assets/profile/twrp.svg" alt="" />
