@@ -60,14 +60,17 @@ I’m a PhD candidate in machine learning at **Uppsala University**, with a back
   </a>
 </div>
 
-<details>
+<details open>
 <summary>GitHub stats, languages, and streak</summary>
 <br/>
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=DrtSinX98&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub statistics for DrtSinX98" />
-  <img width="41%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrtSinX98&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" alt="Top repository languages for DrtSinX98" />
+  <img width="50%"
+    src="https://github-stats-extended.vercel.app/api?username=DrtSinX98&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;card_width=468"
+    alt="GitHub statistics for DrtSinX98" /><img width="50%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=DrtSinX98&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6&amp;card_width=396"
+    alt="Top repository languages for DrtSinX98" />
   <br/>
-  <img width="90%" src="https://streak-stats.demolab.com?user=DrtSinX98&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak for DrtSinX98" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=DrtSinX98&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak for DrtSinX98" />
 </div>
 </details>
 
